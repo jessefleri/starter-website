@@ -6,7 +6,7 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Jesse R. Fleri
 
 # Author notes (optional)
 author_notes:
