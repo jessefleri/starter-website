@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: js
+  icon_pack: fab
+  name: JavaScript
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: "esri-logo"
+  icon_pack: "custom"
+  name: "ArcGIS"
+  description: "90%"
 ---
