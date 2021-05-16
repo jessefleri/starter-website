@@ -7,7 +7,7 @@ social:
       header: false
     icon_pack: fab
     link: https://twitter.com/jesse_fleri
-    icon: fa-twitter
+    icon: twitter
 organizations: []
 education:
   courses:
@@ -22,3 +22,8 @@ education:
       year: 2018
 superuser: true
 ---
+<!--StartFragment-->
+
+Jesse Fleri is a Ph.D. student testing the reliability of trait based frameworks for prediction in community ecology and macroecology. He is assessing whether functional traits can be used to explain how plant communities assemble in the context of drought and if the global distribution of woody plants can be predicted by traits. Jesse has developed the [Global Vegetation Project](http://www.gveg.wyobiodiversity.org/) for science communication as part of his Ph.D. and is quickly developing a front-end engineering skillset to match his existing data science background.
+
+<!--EndFragment-->
