@@ -20,14 +20,14 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: 20%
+  icon: js
+  icon_pack: fab
+  name: JavaScript
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: js
-  icon_pack: fab
-  name: JavaScript
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: "esri-logo"
-  icon_pack: "custom"
-  name: "ArcGIS"
-  description: "90%"
+#- icon: "esri-logo"
+#  icon_pack: "custom"
+#  name: "ArcGIS"
+#  description: "90%"
 ---
